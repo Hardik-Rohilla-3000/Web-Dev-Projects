@@ -1,0 +1,92 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+#maharajaphoto{
+    display: inline-block;
+    background-image: url("MaharajaPhoto.jpeg");
+    background-size: cover;
+    border: 5px solid black;
+    width: 350px;
+    height: 150px;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+#ncc{
+    display: inline-block;
+    background-image: url("NCC.jpeg");
+    background-size: cover;
+    border: 5px solid black;
+    width: 350px;
+    height: 150px;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+#universityphoto{
+    display: inline-block;
+    background-image: url("UniversityPhoto.jpeg");
+    background-size: cover;
+    border: 5px solid black;
+    width: 350px;
+    height: 150px;
+    margin-left: 160px;
+}
+#nss{
+    display: inline-block;
+    background-image: url("NSS.jpg");
+    background-size: cover;
+    border: 5px solid black;
+    width: 350px;
+    height: 150px;
+    margin-left: 113px;
+}
+#collegeHeading{
+    height: 370px;
+}
+#maharajaname{
+    margin-bottom: 60px;
+    margin-left: 170px;
+}
+#universityname{
+    margin-bottom: 60px;
+}
+#universitylogo{
+    margin-left: 180px;
+    margin-bottom: 10px;
+}
+#content{
+    color: white;
+    background-color: #252C34;
+    margin-top: 10px;
+}
+#navbar{
+    background-color: #014464;
+    height: 50px;
+    margin-top: 10px;
+    position: sticky;
+}
+#hostel{
+    border: 2px solid white;
+    background-image: url("Hostel.jpg");
+    background-size: cover;
+    height: 250px;
+    width: 450px;
+    margin-left: 520px;
+}
+.navLinks{
+    color: white;
+    text-decoration: none;
+    font-size: 35px;
+    margin-left: 200px;
+}
+.courses{
+    color: rgb(118, 91, 241); 
+    font-size: 20px;
+}
+p{
+    font-size: 25px;
+}
+li{
+    font-size: 25px;
+    margin-bottom: 2px;
+}
